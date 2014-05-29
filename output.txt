@@ -1,0 +1,77 @@
+5
+
+4
+
+Error: Invalid relation -- Norelation
+
+Error: Invalid relation -- Badrelation
+
+41
+
+47
+
+Attribute type  :  S
+Atrribute length:  4
+
+Error: Invalid attribute -- Majorcr
+
+Attribute type  :  I
+Atrribute length:  4
+
+Error: Invalid attribute -- Badattr
+
+Attribute type  :  S
+Atrribute length:  25
+
+Attribute type  :  I
+Atrribute length:  4
+
+5
+
+Error: Invalid relation -- Student
+
+Error: Invalid relation -- Corses
+
+4
+
+Smith,Robert
+Woods,Jane
+Ramsey,Elaine
+Wharton,Tom
+Baker,Norma
+
+Error: Invalid relation -- courses
+
+CSI
+BUS
+PSY
+
+Error: Invalid attribute -- Majcredit
+
+3
+4
+1
+
+Ravi
+Evans
+Kim
+Keller
+
+Smith,Robert   PSY   CSI   57   39
+Woods,Jane     CSI   BUS   97   68
+Baker,Norma    BIO   CSI   39   25
+
+No tuples satisfy the specified condition.
+
+Systems Programming    CSI-402   Ravi   3
+Business Law           LAW-220   Evans  3
+
+No tuples satisfy the specified condition.
+
+Error: Wrong type of value for attribute Name
+
+Independent Study      CSI-497   Keller 1
+
+Error: Wrong type of value for attribute Credits
+
+Error: Invalid attribute -- Instructor
